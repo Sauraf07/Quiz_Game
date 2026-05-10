@@ -1,0 +1,16 @@
+# Quiz Game System Requirements
+# Python 3.7+
+
+# No external dependencies required for basic functionality
+# The project uses only Python standard library modules:
+# - json
+# - csv
+# - os
+# - datetime
+# - sys
+# - random
+
+# Optional: For enhanced features in the future
+# pandas>=1.0.0  # For advanced data analysis
+# colorama>=0.4.3  # For cross-platform colored terminal output
+# tabulate>=0.8.0  # For formatted table display

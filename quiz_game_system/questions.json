@@ -1,0 +1,237 @@
+[
+  {
+    "question": "What is Python?",
+    "options": [
+      "Programming Language",
+      "A type of snake",
+      "A web browser",
+      "A game console"
+    ],
+    "answer": "Programming Language",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "Who created Python?",
+    "options": [
+      "Guido van Rossum",
+      "Bjarne Stroustrup",
+      "Mark Zuckerberg",
+      "Steve Jobs"
+    ],
+    "answer": "Guido van Rossum",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "What year was Python first released?",
+    "options": ["1991", "1995", "2000", "1985"],
+    "answer": "1991",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "Which of the following is a Python data type?",
+    "options": ["List", "Variable", "Function", "Module"],
+    "answer": "List",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "answer": "HyperText Markup Language",
+    "difficulty": "easy",
+    "category": "Web Development"
+  },
+  {
+    "question": "What is the correct way to comment in Python?",
+    "options": [
+      "# This is a comment",
+      "// This is a comment",
+      "/* This is a comment */",
+      "<!-- This is a comment -->"
+    ],
+    "answer": "# This is a comment",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "Which keyword is used to create a function in Python?",
+    "options": ["def", "function", "define", "func"],
+    "answer": "def",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "What is the output of print(5 + 3 * 2)?",
+    "options": ["11", "16", "13", "20"],
+    "answer": "11",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "Which data structure is ordered and mutable in Python?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "answer": "List",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What is the correct syntax for creating a dictionary in Python?",
+    "options": [
+      "{\"key\": \"value\"}",
+      "[\"key\", \"value\"]",
+      "(\"key\", \"value\")",
+      "<\"key\", \"value\">"
+    ],
+    "answer": "{\"key\": \"value\"}",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets",
+    "difficulty": "easy",
+    "category": "Web Development"
+  },
+  {
+    "question": "Which keyword is used to create a class in Python?",
+    "options": ["class", "Class", "CLASS", "create"],
+    "answer": "class",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What is the correct way to access a dictionary value in Python?",
+    "options": ["dict[key]", "dict.key", "dict{key}", "dict(key)"],
+    "answer": "dict[key]",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "Which of the following is not a primitive data type in Python?",
+    "options": ["List", "Integer", "String", "Float"],
+    "answer": "List",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "easy",
+    "category": "Database"
+  },
+  {
+    "question": "What is the purpose of the 'self' keyword in Python classes?",
+    "options": [
+      "Refers to the instance of the class",
+      "Defines static variables",
+      "Creates private methods",
+      "Imports modules"
+    ],
+    "answer": "Refers to the instance of the class",
+    "difficulty": "hard",
+    "category": "Python"
+  },
+  {
+    "question": "Which of the following is an immutable data structure in Python?",
+    "options": ["Tuple", "List", "Set", "Dictionary"],
+    "answer": "Tuple",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What is the output of len([1, 2, 3, 4, 5])?",
+    "options": ["5", "4", "6", "3"],
+    "answer": "5",
+    "difficulty": "easy",
+    "category": "Python"
+  },
+  {
+    "question": "Which method is used to add an element to a Python list?",
+    "options": ["append()", "add()", "insert()", "push()"],
+    "answer": "append()",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Styled Object Notation",
+      "JavaScript Online Notation",
+      "Java Simple Object Notation"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "easy",
+    "category": "Web Development"
+  },
+  {
+    "question": "How do you create a virtual environment in Python?",
+    "options": [
+      "python -m venv env_name",
+      "python venv env_name",
+      "pip venv env_name",
+      "virtualenv create env_name"
+    ],
+    "answer": "python -m venv env_name",
+    "difficulty": "hard",
+    "category": "Python"
+  },
+  {
+    "question": "What is the difference between '==' and 'is' in Python?",
+    "options": [
+      "== compares values, 'is' compares object identity",
+      "'is' compares values, == compares object identity",
+      "Both are the same",
+      "== is for strings, 'is' is for numbers"
+    ],
+    "answer": "== compares values, 'is' compares object identity",
+    "difficulty": "hard",
+    "category": "Python"
+  },
+  {
+    "question": "Which of the following is NOT a valid Python identifier?",
+    "options": ["2variable", "variable_name", "_private", "MyClass"],
+    "answer": "2variable",
+    "difficulty": "medium",
+    "category": "Python"
+  },
+  {
+    "question": "What is the main purpose of Flask framework?",
+    "options": [
+      "To build web applications",
+      "To perform data analysis",
+      "To create desktop applications",
+      "To handle database operations"
+    ],
+    "answer": "To build web applications",
+    "difficulty": "medium",
+    "category": "Web Development"
+  },
+  {
+    "question": "Which of the following is used for version control?",
+    "options": ["Git", "Python", "JavaScript", "Java"],
+    "answer": "Git",
+    "difficulty": "easy",
+    "category": "Tools"
+  }
+]
