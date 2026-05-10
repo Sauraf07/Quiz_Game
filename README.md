@@ -340,11 +340,11 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Your Name**
-- Portfolio: [Your Portfolio](https://portfolio.com)
-- GitHub: [Your GitHub](https://github.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
-- Email: your.email@example.com
+**Sauraf Kumar**
+- Portfolio: [sauraf-portfolio.vercel.app ](https://portfolio.com)
+- GitHub: [https://github.com/Sauraf07](https://github.com)
+- LinkedIn: [linkedin.com/in/sauraf07](https://linkedin.com)
+- Email: saurafsps7631@gmail.com
 
 ## 🙏 Acknowledgments
 
