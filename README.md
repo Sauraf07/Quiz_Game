@@ -321,9 +321,9 @@ See [future_scope.md](docs/future_scope.md) for detailed information.
 ## 📚 Documentation
 
 ### Available Documentation
-- **[https://github.com/Sauraf07/Quiz_Game/blob/main/quiz_game_system/docs/project_overview.md](docs/project_overview.md)** - Architecture and design decisions
-- **[http://github.com/Sauraf07/Quiz_Game/blob/main/quiz_game_system/docs/future_scope.md](docs/future_scope.md)** - Roadmap and enhancement ideas
-- **[https://github.com/Sauraf07/Quiz_Game/blob/main/quiz_game_system/docs/flowchart.md](docs/flowchart.md)** - Application workflow diagrams
+- **[project_overview.md](docs/project_overview.md)** - Architecture and design decisions
+- **[future_scope.md](docs/future_scope.md)** - Roadmap and enhancement ideas
+- **[flowchart.md](docs/flowchart.md)** - Application workflow diagrams
 
 ## 🤝 Contributing
 
